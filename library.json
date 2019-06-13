@@ -1,4 +1,5 @@
-"name": "ArduSensorPlatformCoreBase",
+{
+  "name": "ArduSensorPlatformCoreBase",
   "keywords": "arduino, sensor, ardusensorplatform framework",
   "description": "Core components for ardusensorplatform framework",
   "repository":
@@ -30,3 +31,4 @@
   "version": "1.2.0",
   "frameworks": "arduino",
   "platforms": "*"
+}
